@@ -1,0 +1,35 @@
+.button1 {
+  -fx-pref-height: 20;
+  -fx-pref-width: 20;
+  -fx-text-fill: #3f2e33;
+  -fx-background-color: #ffb8d0;
+  -fx-effect: dropshadow(three-pass-box, #e05697, 5, 0, -3, 5);
+  -fx-font-weight: bold;
+  -fx-font-size: 16px;
+}
+.buttonTinNhan {
+  -fx-text-fill: #3f2e33;
+  -fx-background-color: #ffb8d0;
+  -fx-effect: dropshadow(three-pass-box, #e05697, 5, 0, -3, 5);
+  -fx-font-weight: bold;
+  -fx-font-size: 16px;
+}
+.background {
+  -fx-background-color: #ead1d9;
+}
+.text {
+  -fx-fill: #000000;
+  -fx-background-color: #278da9;
+  -fx-font-family: "Arial";
+  -fx-font-size: 15px;
+  -fx-font-weight: bold;
+  -fx-background-radius: 20 20 20 20;
+  -fx-padding: 5 10 5 10;
+}
+.buttonOke {
+  -fx-text-fill: #3f2e33;
+  -fx-background-color: #ffb8d0;
+  -fx-effect: dropshadow(three-pass-box, #e05697, 5, 0, -3, 5);
+  -fx-font-weight: bold;
+  -fx-font-size: 16px;
+}
